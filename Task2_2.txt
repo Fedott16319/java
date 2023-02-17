@@ -1,0 +1,20 @@
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [93, 31, 10, 47, 69, 30, 95, 52, 39, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [93, 31, 47, 69, 30, 95, 52, 39, 10, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [93, 47, 69, 31, 95, 52, 39, 30, 10, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [93, 69, 47, 95, 52, 39, 31, 30, 10, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [93, 69, 95, 52, 47, 39, 31, 30, 10, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [93, 95, 69, 52, 47, 39, 31, 30, 10, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [95, 93, 69, 52, 47, 39, 31, 30, 10, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [95, 93, 69, 52, 47, 39, 31, 30, 10, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [95, 93, 69, 52, 47, 39, 31, 30, 10, 1]
+февр. 17, 2023 9:25:22 PM Homework.Home_2.HW2_3 babblSort
+INFO: [95, 93, 69, 52, 47, 39, 31, 30, 10, 1]
